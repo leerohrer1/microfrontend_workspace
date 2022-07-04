@@ -1444,5 +1444,8 @@
       }
     }
   },
-  "defaultProject": "apptwo"
+  "defaultProject": "apptwo",
+  "cli": {
+    "analytics": "0b9ec236-17e4-4af1-a276-5f408657f302"
+  }
 }
