@@ -1,6 +1,5 @@
 # Microfrontends using Angular Elements
 
+THIS IS NOT MY CODE! 
 
-Clone this repo on your computer and run `npm install` to install all dependencies.
-
-Please follow my [YouTube Tutorial](https://www.youtube.com/watch?v=oqle07Ifyoc) to build and deploy micro frontends on the local server.
+Please follow this [YouTube Tutorial](https://www.youtube.com/watch?v=oqle07Ifyoc) to build and deploy micro frontends on the local server.
